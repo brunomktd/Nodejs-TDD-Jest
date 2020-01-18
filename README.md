@@ -13,7 +13,7 @@ Insira suas credenciais de acesso:<br/>
 
 > DB_HOST=localhost <br/>
 > DB_USER=postgres <br/>
-> DB_PASS=<senha-de-conexao> <br/>
+> DB_PASS= \<senha-de-conexao> <br/>
 > DB_NAME=postgres <br/>
 
 
